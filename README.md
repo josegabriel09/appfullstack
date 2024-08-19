@@ -1,4 +1,5 @@
-# quickStartNodeJSProject
-A NodeJS project, organized  with MVC design pattern
+# Aplicativo Full stack
 
-Want to learn more about Node.JS, visit my youtube channel: https://www.youtube.com/channel/UCHqJxLo7mKam9GKqqwr2wfA
+Aplicativo 100% por mim para a empresa EduVision Brazil, que permitiu que eu usasse apenas esses arquivos para portfólio.
+
+Aplicativo na produção: Eduvision.vercel.app
